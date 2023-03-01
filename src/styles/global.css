@@ -1,0 +1,11 @@
+body {
+  font-family: Consolas;
+}
+
+.non-selectable {
+  user-select: none;
+}
+
+.timeline-title__sort-by-list-icon {
+  transform: translateX(calc(-10px + -1%));
+}

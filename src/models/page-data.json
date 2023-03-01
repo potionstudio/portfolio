@@ -1,0 +1,21 @@
+{
+  "title": "체력물약 | STUD",
+  "links": [
+    {
+      "name": "📦 Service",
+      "path": "/service"
+    },
+    {
+      "name": "🔥 My Skils",
+      "path": "/skill"
+    },
+    {
+      "name": "🙏 Contact",
+      "path": "/contact"
+    },
+    {
+      "name": "📝 Blog",
+      "path": "https://velog.io/@potionstudio"
+    }
+  ]
+}

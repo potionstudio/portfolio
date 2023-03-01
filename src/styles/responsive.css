@@ -1,0 +1,9 @@
+.R85 {
+  width: 85%;
+}
+
+@media screen and (max-width) {
+  .R85 {
+    width: 95%;
+  }
+}
