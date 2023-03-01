@@ -11,4 +11,5 @@
 - Preact, Bootstrap은 MIT 라이센스로 공유되므로, 라이선스는 아래에 기재합니다.
 
 Bootstrap: https://github.com/twbs/bootstrap/blob/main/LICENSE
+
 Preact: https://github.com/preactjs/preact/blob/master/LICENSE
