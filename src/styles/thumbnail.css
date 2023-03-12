@@ -22,6 +22,10 @@
   background-color: #005494;
   color: whitesmoke;
 }
+.thumbnail-svelte {
+  color: whitesmoke;
+  background-color: orange;
+}
 .thumbnail-go {
   background-color: #65ccd9;
   color: whitesmoke;
